@@ -1,10 +1,5 @@
 # 🌦️ ClimXpert – Smart Weather Prediction
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ML-Weather%20Prediction-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Powered%20By-Visual%20Crossing%20API-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Framework-Streamlit-green?style=for-the-badge&logo=streamlit" />
-</p>
 
 > 🚀 **ClimXpert** is an AI-powered Smart Weather Prediction system that forecasts **temperature & rainfall trends** using historical and live weather data.  
 > It combines **Machine Learning models** with real-time data fetching for accurate and interactive predictions.  
