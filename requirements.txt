@@ -1,0 +1,13 @@
+streamlit
+streamlit-folium
+folium
+pandas
+numpy
+plotly
+requests
+python-dotenv
+joblib
+scikit-learn
+lightgbm
+matplotlib
+seaborn
